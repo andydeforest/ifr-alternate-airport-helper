@@ -1,0 +1,4 @@
+{
+	"plugins": ["transform-class-properties", "emotion"],
+	"presets": [["env", {"modules": false}], "react"]
+}
