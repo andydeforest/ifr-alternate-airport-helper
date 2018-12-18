@@ -32,7 +32,6 @@ export default class AirportMarker extends Component {
 								</tr>
 							}
 						</tbody>
-
 					</table>
 				</Popup>
 			</CircleMarker>

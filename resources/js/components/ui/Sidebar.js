@@ -67,7 +67,9 @@ export default class Sidebar extends Component {
 						</div>
 						<div className="row">
 							<div className="col text-center">
-								<FaGithub size={32} />
+								<a href="https://github.com/andydeforest/ifr-alternate-airport-helper" className="text-white" target="_blank">
+									<FaGithub size={32} />
+								</a>
 							</div>
 						</div>
 					</div>

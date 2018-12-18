@@ -10,8 +10,6 @@
 	</head>
 	<body>
 		<div id="app"></div>
-
 		<script src="{{ URL::asset('js/client.js') }}"></script>
-
 	</body>
 </html>
